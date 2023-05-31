@@ -67,3 +67,5 @@ function doGet() {
     var media = ((nota1 * peso1) + (nota2 * peso2)) / (peso1 + peso2);
     Logger.log('Media :'+ media)
   }
+Hoje no dia 31/05/2023,fizemos mais um Codigo.
+Sempre com o objetivo de aprender mais programação e ser um otimo tecnico em imformática.
