@@ -19,7 +19,7 @@ Teve uma atividade bem legal, isso para testa se os alunos tinham aprendido o qu
 dia 31/05/2023,fizemos mais um Codigo.
 Sempre com o objetivo de é quase do mesmo jeito do da pratica do dia 26/05/2023, mas so que agora ia exibir a media na tela.para ver é so clicar:"imgtopdf_3105231449018.pdf"
 
-02/06/2023 fizemos uma Atividade bem complicada para mim, o objetivo da pratica era Fazer um login, onde quebrei muito a cabeça,mas deu certo.
+02/06/2023 fizemos uma Atividade bem complicada para mim, o objetivo da pratica era Fazer um login, precisava de um email e senha,onde ja era exibido no codigo.pra ver é so cricar:"imgtopdf_1706231450014.pdf"
 
 Dia 14/06/2023 conseguimos fazer mais uma Pratica que o nosso professor J.vitor passou.onde começamos a usar duas variaveis bem estranha no inicio.essa variaveis eu não tinha entendido muito bem,mas o professor com toda calma do mundo explicou denovo e denovo até eu entender.
 
