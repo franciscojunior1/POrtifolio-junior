@@ -15,6 +15,7 @@ Objetivo: Comseguir atingir a nota máxima e aprender programação no Guithub.
 dia 26/05/2023:
 Teve uma atividade bem legal, isso para testa se os alunos tinham aprendido o que tinha sido passado na ultima aula. o codigo HTML feito esta nos arquivo é so clicar:"imgtopdf_3105231453022.pdf",nessa  a gente via o resultado no log do servidor, vai da a media de nota1,peso1,nota2,peso2.
 
+
 dia 31/05/2023,fizemos mais um Codigo.
 Sempre com o objetivo de é quase do mesmo jeito do da pratica do dia 26/05/2023, mas so que agora ia exibir a media na tela.para ver é so clicar:"imgtopdf_3105231449018.pdf"
 
