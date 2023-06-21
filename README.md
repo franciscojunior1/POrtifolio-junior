@@ -21,7 +21,7 @@ Sempre com o objetivo de é quase do mesmo jeito do da pratica do dia 26/05/2023
 
 02/06/2023 fizemos uma Atividade bem complicada para mim, o objetivo da pratica era Fazer um login, precisava de um email e senha,onde ja era exibido no codigo.pra ver é so cricar:"imgtopdf_1706231450014.pdf"
 
-Dia 14/06/2023 conseguimos fazer mais uma Pratica que o nosso professor J.vitor passou.onde começamos a usar duas variaveis bem estranha no inicio.essa variaveis eu não tinha entendido muito bem,mas o professor com toda calma do mundo explicou denovo e denovo até eu entender.
+Dia 14/06/2023 conseguimos fazer mais uma Pratica que o nosso professor J.vitor passou.onde começamos a usar duas variaveis bem estranha no inicio.essa variaveis eu não tinha entendido muito bem,mas o professor com toda calma do mundo explicou denovo e denovo até eu entender.para ver é so clicar:"imgtopdf_1706231451037.pdf"
 
 Dia 15/06/2023 foi um dia para me que eu mais gostei, pois começei a aprender a fazer tabelas e pranilha pelo google, pois é um assunto não muito dificil mas precisa presta atenção no codigo e sua estrutura.
 
