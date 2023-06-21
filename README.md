@@ -23,8 +23,8 @@ Sempre com o objetivo de é quase do mesmo jeito do da pratica do dia 26/05/2023
 
 Dia 14/06/2023 conseguimos fazer mais uma Pratica que o nosso professor J.vitor passou.onde começamos a usar duas variaveis bem estranha no inicio.essa variaveis eu não tinha entendido muito bem,mas o professor com toda calma do mundo explicou denovo e denovo até eu entender.para ver é so clicar no pdf:"imgtopdf_1706231451037.pdf"
 
-Dia 15/06/2023 foi um dia para me que eu mais gostei, pois começei a aprender a fazer tabelas e planilha pelo google, pois é um assunto não muito dificil mas precisa presta atenção no codigo e sua estrutura.nessa pratica,era pra fazer um cadastro de um livro, foi o dia onde começamos usar a variavel doPost e doUrl.Par ver é so clicar no pdf:"imgtopdf_1706231453040.pdf".
+Dia 15/06/2023 foi um dia para me que eu mais gostei, pois começei a aprender a fazer tabelas e planilha pelo google, pois é um assunto não muito dificil mas precisa presta atenção no codigo e sua estrutura.nessa pratica,era pra fazer um cadastro de um livro, foi o dia onde começamos usar a variavel doPost e getUrl.Par ver é so clicar no pdf:"imgtopdf_1706231453040.pdf".
 
-16/06/2023 fizemos uma atividade muito grande mas ao mesmo tempo muito legal.o objetivo era fazer um ficha de um aluno.
+16/06/2023 fizemos uma atividade muito grande mas ao mesmo tempo muito legal.o objetivo era fazer um ficha de um aluno.onde os dados do aluno ia para essa planilha que criei para ver o codigo é so clicar no pdf:"imgtopdf_1706231455008.pdf".
 
 Dia 21/06/2023 fizemos uma lista de exercicio,bastante complicada,usamos varias função uma delas foi a doPost,doGet e doUrl,fizemos essa atraves do google App Script e também usamos java script e HTML etc.
