@@ -27,4 +27,4 @@ Dia 15/06/2023 foi um dia para me que eu mais gostei, pois começei a aprender a
 
 16/06/2023 fizemos uma atividade muito grande mas ao mesmo tempo muito legal.o objetivo era fazer um ficha de um aluno.onde os dados do aluno ia para essa planilha que criei para ver o codigo é so clicar no pdf:"imgtopdf_1706231455008.pdf".
 
-Dia 21/06/2023 fizemos uma lista de exercicio,bastante complicada,usamos varias função uma delas foi a doPost,doGet e doUrl,fizemos essa atraves do google App Script e também usamos java script e HTML etc.
+Dia 21/06/2023 fizemos uma lista de exercicio,bastante complicada,usamos varias função uma delas foi a doPost,doGet e doUrl,fizemos essa atraves do google App Script e também usamos java script e HTML etc.Você poderá veresse codigo no documento:"lista de exercicio web II "
